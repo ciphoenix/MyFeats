@@ -7,6 +7,6 @@
   "Requirements": [],
   "AssemblyName": "MyFeats.dll",
   "EntryMethod": "MyFeats.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "HomePage": "https://github.com/ciphoenix/MyFeats",
+  "Repository": "https://raw.githubusercontent.com/ciphoenix/MyFeats/master/Repository.json"
 }
