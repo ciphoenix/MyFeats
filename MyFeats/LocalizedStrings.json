@@ -1,0 +1,177 @@
+[
+  {
+    "Key": "MagicalAffinity.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity"
+  },
+
+  {
+    "Key": "MagicalAffinity.FeatureDescription",
+    "enGB": "You become more attuned to magic and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "CombatProwess.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Prowess"
+  },
+
+  {
+    "Key": "CombatProwess.FeatureDescription",
+    "enGB": "Your physical strength is your best weapon, Your feats of strength make enemies think twice about attacking you reducing their effectiveness against you. You add your strength bonus to everything"
+  },
+
+  {
+    "Key": "CombatPersonality.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Personality"
+  },
+
+  {
+    "Key": "CombatPersonality.FeatureDescription",
+    "enGB": "You can avoid attacks via sheer personality. You add your Charisma Bonus to everything"
+  },
+
+  {
+    "Key": "CombatInsight.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Insight"
+  },
+
+  {
+    "Key": "CombatInsight.FeatureDescription",
+    "enGB": "Your insight into enemy behaviour helps you avoid attacks. You add your Wisdom Bonus to everything"
+  },
+
+  {
+    "Key": "CombatConditioning.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Conditioning"
+  },
+
+  {
+    "Key": "CombatConditioning.FeatureDescription",
+    "enGB": "You can feel the flow of the battle and your body is conditioned to take on any attack. You add your Constitution Bonus to everything"
+  },
+
+  {
+    "Key": "CombatAvoidance.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Avoidance"
+  },
+
+  {
+    "Key": "CombatAvoidance.FeatureDescription",
+    "enGB": "They cannot hit you if they cannot get to you. You weave around the battlefield at incredible speed. You add your Dexterity Bonus to everything"
+  },
+
+  {
+    "Key": "CombatAnalysis.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Combat Analysis"
+  },
+
+  {
+    "Key": "CombatAnalysis.FeatureDescription",
+    "enGB": "Your analytic mind makes you see the enemy's moves before they make them. You add your Intelligence Bonus to everything"
+  },
+
+  {
+    "Key": "MnemonicDevice.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Mnemonic Device"
+  },
+
+  {
+    "Key": "MnemonicDevice.FeatureDescription",
+    "enGB": "You have discovered ways to fortify your mind, enabling you to memorise more spells"
+  },
+
+  {
+    "Key": "MagicalAffinityStr.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Strength)"
+  },
+
+  {
+    "Key": "MagicalAffinityStr.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your raw physical might, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "MagicalAffinityDex.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Dexterity)"
+  },
+
+  {
+    "Key": "MagicalAffinityDex.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your finely honed reflexes, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "MagicalAffinityCon.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Constitution)"
+  },
+
+  {
+    "Key": "MagicalAffinityCon.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your rugged constitution, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "MagicalAffinityInt.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Intelligence)"
+  },
+
+  {
+    "Key": "MagicalAffinityInt.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your analytical mind, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "MagicalAffinityWis.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Wisdom)"
+  },
+
+  {
+    "Key": "MagicalAffinityWis.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your inner insight, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "MagicalAffinityCha.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Magical Affinity (Charisma)"
+  },
+
+  {
+    "Key": "MagicalAffinityCha.FeatureDescription",
+    "enGB": "You become more attuned to magic, drawing resilience from your force of personality, and can resist spells that should damage you"
+  },
+
+  {
+    "Key": "AdvancedCombatTactics.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Advanced Combat Tactics"
+  },
+
+  {
+    "Key": "AdvancedCombatTactics.FeatureDescription",
+    "enGB": "You have honed a particular approach to combat, drawing on one aspect of yourself to gain an edge in battle"
+  },
+
+  {
+    "Key": "MyProtectiveLuckBuff.FeatureName",
+    "ProcessTemplates": false,
+    "enGB": "Protective Luck (Effect)"
+  },
+
+  {
+    "Key": "MyProtectiveLuckBuff.FeatureDescription",
+    "enGB": "Internal: applied to an attacker to impose disadvantage on their next attack roll against you."
+  }
+]

@@ -1,0 +1,9 @@
+﻿{
+  "Releases": [
+    {
+      "Id": "MyFeats",
+      "Version": "1.0.4",
+      "DownloadUrl": "https://github.com/ciphoenix/MyFeats/releases/download/1.0.4/MyFeats.zip"
+    }
+  ]
+}

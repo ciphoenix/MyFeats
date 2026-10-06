@@ -1,0 +1,12 @@
+﻿{
+  "Id": "MyFeats",
+  "DisplayName": "My Feats",
+  "Author": "aldmerian",
+  "Version": "1.0.4",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "MyFeats.dll",
+  "EntryMethod": "MyFeats.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
